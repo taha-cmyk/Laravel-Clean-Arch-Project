@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBBcHBcRG9tYWluXEludGVyZmFjZXM7CgppbnRlcmZhY2UgVXNlclJlcG9zaXRvcnlJbnRlcmZhY2UKewogICAgLy8KfQ==
+<?php
+
+namespace App\Domain\Interfaces;
+
+interface UserRepositoryInterface
+{
+    //
+}
