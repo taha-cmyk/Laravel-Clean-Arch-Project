@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBBcHBcSW5mcmFzdHJ1Y3R1cmVcRWxvcXVlbnQ7CgpjbGFzcyBVc2VyUmVwb3NpdG9yeSBpbXBsZW1lbnRzIFxBcHBcRG9tYWluXEludGVyZmFjZXNcVXNlclJlcG9zaXRvcnlJbnRlcmZhY2UKewogICAgLy8KfQ==
+<?php
+
+namespace App\Infrastructure\Eloquent;
+
+class UserRepository implements \App\Domain\Interfaces\UserRepositoryInterface
+{
+    //
+}
