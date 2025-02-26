@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBBcHBcRG9tYWluXEVudGl0aWVzOwoKY2xhc3MgVXNlcgp7CiAgICAvLwp9
+<?php
+
+namespace App\Domain\Entities;
+
+class User
+{
+    //
+}
