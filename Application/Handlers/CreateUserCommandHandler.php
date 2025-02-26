@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBBcHBcQXBwbGljYXRpb25cSGFuZGxlcnM7CgpjbGFzcyBDcmVhdGVVc2VyQ29tbWFuZEhhbmRsZXIKewogICAgLy8KfQ==
+<?php
+
+namespace App\Application\Handlers;
+
+class CreateUserCommandHandler
+{
+    //
+}
