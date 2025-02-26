@@ -1,1 +1,5 @@
-PD9waHAKCnJldHVybiBbCiAgICAvLwpdOw==
+<?php
+
+return [
+    //
+];
