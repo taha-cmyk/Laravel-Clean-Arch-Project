@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBUZXN0c1xGZWF0dXJlOwoKY2xhc3MgRXhhbXBsZVRlc3QgZXh0ZW5kcyBUZXN0Q2FzZQp7CiAgICAvLwp9
+<?php
+
+namespace Tests\Feature;
+
+class ExampleTest extends TestCase
+{
+    //
+}
