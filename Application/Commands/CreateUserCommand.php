@@ -1,1 +1,8 @@
-PD9waHAKCm5hbWVzcGFjZSBBcHBcQXBwbGljYXRpb25cQ29tbWFuZHM7CgpjbGFzcyBDcmVhdGVVc2VyQ29tbWFuZAp7CiAgICAvLwp9
+<?php
+
+namespace App\Application\Commands;
+
+class CreateUserCommand
+{
+    //
+}
