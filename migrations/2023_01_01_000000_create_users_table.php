@@ -1,1 +1,8 @@
-PD9waHAKCnVzZSBJbGx1bWluYXRlXERhdGFiYXNlXE1pZ3JhdGlvbnNcTWlncmF0aW9uOwoKY2xhc3MgQ3JlYXRlVXNlcnNUYWJsZSBleHRlbmRzIE1pZ3JhdGlvbgp7CiAgICAvLwp9
+<?php
+
+use Illuminate\Database\Migrations\Migration;
+
+class CreateUsersTable extends Migration
+{
+    //
+}
